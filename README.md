@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Jiaqi Fei (费嘉琪)
+name: Jiaqi Fei (费佳祺)
 location: Dalian, China
 education: Dalian University of Technology (大连理工大学)
 interests:
